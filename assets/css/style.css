@@ -114,6 +114,9 @@ h2 {
     color: var(--secondary-color);
 } 
 
+#contact .table-dark * {
+    background-color: transparent;
+}
 
 
 /* grid visualisation for CSS testing */
