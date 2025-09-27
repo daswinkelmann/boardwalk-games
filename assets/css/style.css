@@ -69,6 +69,15 @@ h2 {
     color: white;
 }
 
+/* Student button */
+
+#student-button {
+        border: none;
+        background-color: #416a8e;
+        border-radius: 0px;
+        font-weight: bold;
+}
+
 
 /* Navbar */
 
